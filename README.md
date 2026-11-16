@@ -224,6 +224,3 @@ Feedstock Maintainers
 * [@casperdcl](https://github.com/casperdcl/)
 * [@gschramm](https://github.com/gschramm/)
 
-
-<!-- dummy commit to enable rerendering -->
-
